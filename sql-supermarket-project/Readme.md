@@ -90,4 +90,6 @@ Screenshots of query outputs are included in the `/screenshots` folder.
 
 ## 👨‍💻 Author
 
-Created as a SQL practice project for data analysis portfolio building.
+Joene Mukwevho
+
+This project was developed to demonstrate SQL data analysis skills.
